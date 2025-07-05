@@ -1,0 +1,2 @@
+# traductorOpenShift
+Traductor Español Italiano
